@@ -15,6 +15,9 @@
 
 ###### Состав команды:
 [Ума Мирзоева](https://vk.com/vselennaya_13)
+***
 [Макс Бойчук](https://vk.com/max_buyvol)
+***
 [Антон Чумаков](https://vk.com/id244081910)
+***
 [Андрей Зудин](https://vk.com/imnobatman)
