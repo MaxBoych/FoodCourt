@@ -41,6 +41,8 @@
  
 ***
 
+![Иллюстрация к проекту](https://github.com/MorojenkaTeam/FoodCourtt/master/2.png
+
 ###### Состав команды:
 [Ума Мирзоева](https://vk.com/vselennaya_13)
 
