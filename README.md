@@ -53,10 +53,22 @@
 ***
 
 ###### Состав команды:
-[Ума Мирзоева](https://vk.com/vselennaya_13)
+Ума Мирзоева
 
-[Макс Бойчук](https://vk.com/max_buyvol)
+[vk](https://vk.com/vselennaya_13)
+[git](https://github.com/Mirzoeva)
 
-[Антон Чумаков](https://vk.com/id244081910)
+Макс Бойчук
 
-[Андрей Зудин](https://vk.com/imnobatman)
+[vk](https://vk.com/max_buyvol)
+[git](https://github.com/MaxBoych)
+
+Антон Чумаков
+
+[vk](https://vk.com/id244081910)
+[git](https://github.com/TonyBlock)
+
+Андрей Зудин
+
+[vk](https://vk.com/imnobatman)
+[git](https://github.com/chepmunk)
